@@ -1,8 +1,7 @@
-hi
 this
-is
 text
 file
+for
 the
 extra
 credit
