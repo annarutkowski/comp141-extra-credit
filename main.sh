@@ -45,7 +45,7 @@ touch permissions.txt
 # giving rwx permissions to all groups for the permissions.txt file
 chmod 777 permissions.txt
 
-# credting a shell variable called TESTENV1 and setting its value to "test"
+# creating a shell variable called TESTENV1 and setting its value to "test"
 export TESTENV1="test"
 
 # running a grep command for all words in the created text file with at least three letters
